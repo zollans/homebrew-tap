@@ -1,6 +1,6 @@
 cask "onlyeq" do
-  version "1.2.7"
-  sha256 "cab8e547776ebc008b57a28bfb51bcf16b6169bba80c1da4772ba1d4c32e4d11"
+  version "1.3.0"
+  sha256 "8641c059c66d7c46b5495e6c8f3e174c24cfd2112f91a4be3cb94042d7d8c690"
 
   url "https://github.com/zollans/OnlyEQ/releases/download/v#{version}/OnlyEQ.app.zip"
   name "OnlyEQ"
